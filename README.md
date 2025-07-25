@@ -1,4 +1,3 @@
-# Impact_of_Music_on_EEG_Signals_of_Young_Adults
 # EEG-based Analysis of Musical Impact on Brain Activity using Deep Learning
 
 This project investigates how different music genres affect brain activity using EEG signals and deep learning models. It leverages neural networks to classify EEG responses and uncover genre-specific brainwave patterns.
